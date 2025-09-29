@@ -1,5 +1,5 @@
 // Commands Page Component
-const CommandsPage = () => {
+export const CommandsPage = () => {
   return (
     <div className="flex-1 overflow-auto p-8">
       <h2 className="text-4xl font-bold mb-8 text-white">Commands</h2>
