@@ -1,5 +1,6 @@
-# Testing App
-![alt text](C:\Users\Saura\Downloads\app\Security\public\image.png)
+# Security App
+![App Screenshot](public/image.png)
+
 
 
 A React 19 + Vite + TailwindCSS project with modern tooling.
